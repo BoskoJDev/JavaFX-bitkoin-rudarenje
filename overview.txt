@@ -1,0 +1,13 @@
+
+Evo kako stvari funkcionisu:
+
+    Kada budes spreman, kontaktiraćes me, nakon čega ću ti dati zadatak koji moraš rešiti.
+Vremensko ogranicenje ce ti iznositi 2 minute (120 sekundi).
+Ako ne uspes da resis zadatak u tom vremenskom roku,
+neces dobiti bitkoine. Naravno, kolicina koju ces dobiti zavisi od tvoje brzine.
+Maksimalan broj bitkoina koje mozes dobiti je 2,
+koliko ces i dobiti ukoliko budes uspeo da resis dati zadatak za manje od minut.
+Ukoliko zadatak resis pre isteka drugog minuta, dobices jedan bitkoin.
+Kada budes zavrsio, pritisni dugme koje ce se nalaziti u donjem delu stranice.
+To ce mi poslati zadatak i ako je tacno uradjen, bices nagradjen.
+Ako nije, radis ponovo.

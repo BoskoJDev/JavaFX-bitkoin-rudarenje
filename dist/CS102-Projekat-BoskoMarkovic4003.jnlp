@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CS102-Projekat-BoskoMarkovic4003.jnlp">
+  <information>
+    <title>CS102-Projekat-BoskoMarkovic4003</title>
+    <vendor>Bosko</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CS102-Projekat-BoskoMarkovic4003.jar" size="23345" download="eager" />
+    <jar href="lib\jsoup-1.13.1.jar" size="393867" download="eager" />
+    <jar href="lib\junit-4.10.jar" size="253160" download="eager" />
+    <jar href="lib\mysql-connector-java-5.1.49.jar" size="1006904" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="CS102-Projekat-BoskoMarkovic4003" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="Petljanje_sa_bazom.Login"  name="CS102-Projekat-BoskoMarkovic4003" />
+  <update check="always"/>
+</jnlp>
